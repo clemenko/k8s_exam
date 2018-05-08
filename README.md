@@ -24,4 +24,6 @@ source <(kubectl completion bash)
 
 ## What to study.
 Start with the Udemy and Linux Foundation online classes. 
-To get a better understanding of the underlying components then work through [Kelsey Hightower's Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way). One quesion that I skipped was about configuring a kubelet. I ran out of time. Also for speed's sake make sure you are copying and pasting from the [https://kubernetes.io/docs/home/](docs), which is allowed. 
+To get a better understanding of the underlying components then work through [Kelsey Hightower's Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way).
+
+One quesion that I skipped was about configuring a kubelet. I ran out of time. Also for speed's sake make sure you are copying and pasting from the [https://kubernetes.io/docs/home/](docs), which is allowed. 
