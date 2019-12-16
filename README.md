@@ -1,7 +1,6 @@
 # k8s_exam
 
 ## Sites to review:
- - <a href="https://docker.atlassian.net/wiki/spaces/CustomerSuccess/blog/2018/01/11/213287286/How+I+passed+my+CKA">Roeland's Blog post</a>
  - <a href="https://kubernetes.io/docs/reference/kubectl/cheatsheet/">K8s Cheat Sheet</a>
  - <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way">k8s the hard way</a>
  - <a href="https://kubernetes.io/docs/home/">k8s docs - use search!</a>
